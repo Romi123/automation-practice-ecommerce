@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Cypress generated files
+cypress/screenshots/
+cypress/videos/
+
+# Logs
+*.log
+
+# Environment variables (if any)
+.env
+
+# Mac system files (optional)
+.DS_Store
